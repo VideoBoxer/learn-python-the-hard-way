@@ -18,3 +18,4 @@ def cheese_and_crackers(cheese_count, boxes_of_crackers):
 
  print("And we can combine the two, variables and math:")
  cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
+   
